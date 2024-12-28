@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "پست شماره یک",
+      "address": "پست-شماره-یک",
+      "description": "این یک متن تستی است برای نمایش توضیحات پست",
+      "image": "https://news-cdn.varzesh3.com/pictures/2024/12/27/D/aebz0lqq7.png"
+    },
+    {
+      "id": 1,
+      "title": "پست شماره دو",
+      "address": "پست-شماره-دو",
+      "description": "این یک متن تستی است برای نمایش توضیحات پست",
+      "image": "https://news-cdn.varzesh3.com/pictures/2024/12/27/D/aebz0lqq7.png"
+    },
+    {
+      "id": 1,
+      "title": "پست شماره سه",
+      "address": "پست-شماره-سه",
+      "description": "این یک متن تستی است برای نمایش توضیحات پست",
+      "image": "https://news-cdn.varzesh3.com/pictures/2024/12/27/D/aebz0lqq7.png"
+    },
+    {
+      "id": 1,
+      "title": "پست شماره چهار",
+      "address": "پست-شماره-چهار",
+      "description": "این یک متن تستی است برای نمایش توضیحات پست",
+      "image": "https://news-cdn.varzesh3.com/pictures/2024/12/27/D/aebz0lqq7.png"
+    },
+    {
+      "id": 1,
+      "title": "پست شماره پنج",
+      "address": "پست-شماره-پنج",
+      "description": "این یک متن تستی است برای نمایش توضیحات پست",
+      "image": "https://news-cdn.varzesh3.com/pictures/2024/12/27/D/aebz0lqq7.png"
+    }
+  ]
+}
